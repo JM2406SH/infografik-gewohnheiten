@@ -688,3 +688,19 @@ button:focus {
 .skip-link:focus {
     top: 0;
 }
+
+/* ============================================
+   Source/Quellenangabe Section
+   ============================================ */
+.source-section {
+    padding: var(--spacing-md) 0;
+    text-align: center;
+}
+
+.source-text {
+    font-size: var(--font-size-sm);
+    color: var(--color-text-light);
+    opacity: 0.6;
+    margin: 0;
+    font-style: italic;
+}
